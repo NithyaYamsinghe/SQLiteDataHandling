@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteDataHandling</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="buttonSelectAll">selectall</string>
+    <string name="buttonAdd">add</string>
+    <string name="buttonSignin">signin</string>
+    <string name="buttonDelete">delete</string>
+    <string name="buttonUpdate">update</string>
+</resources>
